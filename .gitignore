@@ -1,0 +1,19 @@
+node_modules/
+out/
+release/
+dist/
+*.tsbuildinfo
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+
+# Local data
+*.sqlite
+*.sqlite-journal
